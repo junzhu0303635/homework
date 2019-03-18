@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-print u'您好' 
+print u'你好' 
 
 print 'today','I','am happy' 
 
